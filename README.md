@@ -18,7 +18,6 @@ A modern, real-time Currency Converter built using **HTML**, **CSS**, and **Java
 - CSS (custom design with gradients and effects)
 - JavaScript (Fetch API, DOM manipulation)
 - ExchangeRate API
-- 
 
-   git clone https://github.com/your-username/currency-converter.git
+  https://lalit25-kumar.github.io/currency-converter/
 
